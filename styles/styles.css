@@ -1,0 +1,35 @@
+body
+{ background: black;
+  align-content : center;
+
+}
+h1
+{
+	text-shadow: 1px 1px 1px black;
+	padding: 3px;
+	text-align: center;
+	color: white;
+}
+p
+{
+	font-family: 'Crimson Text' , sans-serif;
+	color: white;
+	font-size: 2.0rem;
+	border: 2px solid-black;
+	text-indent: 1em;
+	text-align: left;
+	padding: 3px;
+
+}
+.portrait
+{
+	display: block;
+	float: right;
+	border-style: inset;
+	border-width: 80%;
+	border-radius: 25px;
+	margin: 25px 70px;
+	border: 2px solid-black;
+	max-width: 500px;
+	max-height: 700px;
+}
